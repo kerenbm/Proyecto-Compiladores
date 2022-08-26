@@ -1,2 +1,5 @@
 # Proyecto-Compiladores
-- pip3 install -r requirements.txt
+
+## Requerimientos
+- ply==3.11
+- PyQt5==5.15.4
